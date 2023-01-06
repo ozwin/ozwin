@@ -11,7 +11,7 @@
 </div>
 
 - 🔭 I’m currently working on : Neo4j distributed database cluster using kubernetes in GCP (Acedemic project)
-- 🌱 I’m currently learning : Big data analytics
+- 🌱 I’m currently learning : Big data analytics and preparing for my AWS Solution Architect certification
 - 👯 I’m looking to collaborate on : Anything intresting!
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ozwin-lobo/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="20px" width="80px" alt="LinkedIn Badge" align="center"/> </a>
 
